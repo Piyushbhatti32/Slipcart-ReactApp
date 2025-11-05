@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Slipcart-ReactApp/static/css/main.acbe90fb.css",
+    "main.js": "/Slipcart-ReactApp/static/js/main.365791d2.js",
+    "static/js/453.3ceb1ef8.chunk.js": "/Slipcart-ReactApp/static/js/453.3ceb1ef8.chunk.js",
+    "static/media/OnePlus-13.jpg": "/Slipcart-ReactApp/static/media/OnePlus-13.50591946a43c94bd2720.jpg",
+    "static/media/OnePlus-13R.jpg": "/Slipcart-ReactApp/static/media/OnePlus-13R.6af8484bac7524ed90f2.jpg",
+    "static/media/OnePlus-Nord-CE5.jpg": "/Slipcart-ReactApp/static/media/OnePlus-Nord-CE5.82eda0ef6aa25408fef1.jpg",
+    "static/media/iphone_17_pro.jpg": "/Slipcart-ReactApp/static/media/iphone_17_pro.c5e775cfdc8f9a5e807d.jpg",
+    "static/media/OnePlus-13s.jpg": "/Slipcart-ReactApp/static/media/OnePlus-13s.1800f634221ac8ddfb11.jpg",
+    "static/media/OnePlus-Nord-5.jpg": "/Slipcart-ReactApp/static/media/OnePlus-Nord-5.f9ff03dc3653dadbe300.jpg",
+    "static/media/iphone_16.jpg": "/Slipcart-ReactApp/static/media/iphone_16.43cc53eeca7ee7dced8d.jpg",
+    "static/media/iphone_17.jpg": "/Slipcart-ReactApp/static/media/iphone_17.f9a5c605a8d5e4332822.jpg",
+    "static/media/galaxy-s24.jpg": "/Slipcart-ReactApp/static/media/galaxy-s24.4b5369c2d2f053bead4d.jpg",
+    "static/media/iphone_16e.jpg": "/Slipcart-ReactApp/static/media/iphone_16e.48c1c3d9efea2f37e10d.jpg",
+    "static/media/galaxy-a35-5g.jpg": "/Slipcart-ReactApp/static/media/galaxy-a35-5g.7d2cff4a9c728506bfc4.jpg",
+    "static/media/iphone_air.jpg": "/Slipcart-ReactApp/static/media/iphone_air.130d744d7d5f24ba7a14.jpg",
+    "static/media/galaxy-s25.jpg": "/Slipcart-ReactApp/static/media/galaxy-s25.ce994a9c01afb328beff.jpg",
+    "static/media/galaxy-zflip6.jpg": "/Slipcart-ReactApp/static/media/galaxy-zflip6.c643e100397057f688dd.jpg",
+    "index.html": "/Slipcart-ReactApp/index.html",
+    "main.acbe90fb.css.map": "/Slipcart-ReactApp/static/css/main.acbe90fb.css.map",
+    "main.365791d2.js.map": "/Slipcart-ReactApp/static/js/main.365791d2.js.map",
+    "453.3ceb1ef8.chunk.js.map": "/Slipcart-ReactApp/static/js/453.3ceb1ef8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acbe90fb.css",
+    "static/js/main.365791d2.js"
+  ]
+}
